@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>XX大學選課系統</title>
+<title>線上圖書借閱系統</title>
 </head>
 <body>
 		<div>
 		<p>
-			<strong>歡迎來到XX大學選課系統，請輸入您的資料來登入</strong>
+			<strong>請輸入您的資料來登入</strong>
 		</p>
 		<p>
 			<strong><font color="#FF0000">輸入帳號錯誤，查無此帳號！</font></strong>
@@ -15,7 +15,7 @@
 		<form name="form" method="post" action="Login">
 			<table>
 				<tr>
-					<td><div align="left">名稱:</div></td>
+					<td><div align="left">手機:</div></td>
 					<td><div align="left">
 							<input type="text" name="user" id="user">
 						</div></td>
